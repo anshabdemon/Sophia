@@ -48,7 +48,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    if (Config.WORKTYPE == 'public') {
+    if (Config.WORKTYPE == 'private') {
 
         asena.addCommand({pattern: 'owner', fromMe: false, deleteCommand: true, desc: OWNER,}, (async (message, match) => {
 
