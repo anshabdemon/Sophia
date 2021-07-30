@@ -27,12 +27,12 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*njan admin alla macha☹️*",
+            "IM_NOT_ADMIN": "*njan admin alla mwonu☹️*",
             "BANNED": "Mwonu Ok Bie!",
             "GIVE_ME_USER": "*arelum mention chey😈!*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
-            "ALREADY_PROMOTED": "```Avan admin anu nenpa🙃```",
+            "ALREADY_PROMOTED": "```Avan admin aanu mwonu🙃```",
             "PROMOTED": "```admin role was given!```",
             "PROMOTE_DESC": "Makes any person an admin.",
             "DEMOTE_DESC": "Takes the authority of any admin.",
@@ -127,7 +127,7 @@
         },
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
-            "NEED_REPLY": "*Reply to a photo!*",
+            "NEED_REPLY": "*da mwonu oru pic replay chey!*",
             "DOWNLOADING": "```Downloading media & making meme...```"
         },
         "log": {
@@ -149,7 +149,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! I am going 🤠```",
+            "KICKME": "```njan pon bei 🤠```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -167,7 +167,7 @@
         "removebg": {
             "REMOVEBG_DESC": "Removes the background of the photos.",
             "NEED_PHOTO": "*photo thaa mister!*",
-            "NO_API_KEY": "*ente moilali api key thannila aliyaa 😭*\n```remove.bg login for apikey```",
+            "NO_API_KEY": "*anthada background scn aano😄*\n```remove.bg login for apikey```",
             "RBGING": "```Removing...```"
         },
         "scrapers": {
@@ -186,20 +186,20 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Perfect ok```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Song Thapatte 🧚‍♂️*\n",
-            "UPLOADING_SONG": "\n*Song upload cheyyunnu aliyaa, cheviyil vekkuna sadanam pettanu vecho 👉🎧*\n",
+            "DOWNLOADING_SONG": "\n*Song nokkatte 🧚‍♂️*\n",
+            "UPLOADING_SONG": "\n*Song upload cheyyunnu Mwonu, use headphones for best experience 👉🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlm5qeBc```",
             "DOWNLOADING_VIDEO": "```Downloading. 🎥...```",
-            "UPLOADING_VIDEO": "```Upload cheyyatte manushya...```",
+            "UPLOADING_VIDEO": "```Upload cheyyatte mwonu...```",
             "YT_DESC": "It searchs on youtube .",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
-            "NOT_FOUND": "*Thappinokeett kittiyilla ☹️*",
-            "SEARCHING": "*🔎 Nan thappi nokatte 🙂...*",
+            "NOT_FOUND": "*sadhanam kayil illa ☹️*",
+            "SEARCHING": "*🔎 Njan thappi nokatte 🙂...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
-            "IMG": "```nan Chithrangal upload cheyyunu 😌 kanan ready aayikko ``` *{}* ```number``` *{}*"
+            "IMG": "```njan Chithrangal upload cheyyunu 😌 ``` *{}* ```number``` *{}*"
         },
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
@@ -216,14 +216,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Nan ippol thanne update aanallo machaa..!*",
-            "NEW_UPDATE": "* Sophiak k update cheyyan und manushya 😊*\n\n please ask support group before updating. Otherwise chance to get error group link : https://chat.whatsapp.com/G90s1pqZwAjJ7SjQzzqiXe \n\nChanges:\n```",
+            "UPDATE": "*Njan ippol thanne update aanallo mwonu..!*",
+            "NEW_UPDATE": "* Teddy k update cheyyan und mwonu 😊*\n\n please ask support group before updating. Otherwise chance to get error group link : https://chat.whatsapp.com/BqA23kACCLSHGrcPGw81xJ \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Update aakunnu aliyaa  ..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Update. aaki.. monuse😌 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*😎 SOPHIA Restarting*"
+            "AFTER_UPDATE": "*😎 TEDDY Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
