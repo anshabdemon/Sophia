@@ -46,7 +46,7 @@ if (Config.WORKTYPE == 'private') {
 
 else if (Config.WORKTYPE == 'public') {
 
-    Asena.addCommand({pattern: 'sophia ?(.*)', fromMe: false, desc: Lang.BOT_DESC}, async (message, match) => {
+    Asena.addCommand({pattern: 'teddy ?(.*)', fromMe: false, desc: Lang.BOT_DESC}, async (message, match) => {
 
 	if (match[1] === 'xx') return await message.reply(Lang.NEED_LOCATIONA);
 
