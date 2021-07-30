@@ -12,7 +12,7 @@ const Language = require('../language');
 const Lang = Language.getString('instagram')
 
 
-Asena.addCommand({ pattern: 'vinsta ?(.*)', fromMe: false, desc: sd }, async (message, match) => {
+Asena.addCommand({ pattern: 'vinsta ?(.*)', fromMe: true, desc: sd }, async (message, match) => {
 
     const userName = match[1]
 
@@ -34,7 +34,7 @@ Asena.addCommand({ pattern: 'vinsta ?(.*)', fromMe: false, desc: sd }, async (me
         await message.sendMessage(errorMessage(Lang.NOT_FOUND + userName))
     })
 });
-Asena.addCommand({ pattern: 'pinsta ?(.*)', fromMe: false, desc: ph }, async (message, match) => {
+Asena.addCommand({ pattern: 'pinsta ?(.*)', fromMe: true, desc: ph }, async (message, match) => {
 
     const userName = match[1]
 
@@ -66,7 +66,7 @@ Asena.addCommand({ pattern: 'pinsta ?(.*)', fromMe: false, desc: ph }, async (me
   },
 )
 
-Asena.addCommand({ pattern: 'igtv ?(.*)', fromMe: false, desc: tvig }, async (message, match) => {
+Asena.addCommand({ pattern: 'igtv ?(.*)', fromMe: true, desc: tvig }, async (message, match) => {
 
     const userName = match[1]
 
